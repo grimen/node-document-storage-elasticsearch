@@ -3,7 +3,7 @@
 //  Test
 // --------------------
 
-var Storage = require('../../node-document-storage');
+var Storage = require('node-document-storage');
 
 module.exports = Storage.Spec('ElasticSearch', {
   module: require('..'),
