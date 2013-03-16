@@ -42,7 +42,7 @@
   "dependencies": {
     "funargs": "latest",
     "sugar": "latest",
-    "node-document-storage": "0.1.0-pre2",
+    "node-document-storage": "latest",
     "elastical": "latest"
   },
   "devDependencies": {
