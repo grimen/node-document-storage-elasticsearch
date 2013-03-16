@@ -8,6 +8,8 @@ var Storage = require('node-document-storage');
 module.exports = Storage.Spec('ElasticSearch', {
   module: require('..'),
   engine: require('elastical'),
+  id: 'elasticsearch',
+  protocol: 'http',
   db: 'default-test',
   default_url: 'http://localhost:9200/default-test',
   authorized_url: 'http://vt4t5uu0:pk9q6whooingl4uo@jasmine-4473159.us-east-1.bonsai.io:80/test',

@@ -1,6 +1,7 @@
 {
   "name": "node-document-storage-elasticsearch",
   "description": "Storage adapter `elasticsearch` for `node-document` ODM for Node.js.",
+  "keywords": ["document", "odm", "object document mapper", "generic", "unified", "storage", "store", "persistance", "adapter", "elasticsearch"],
   "version": "0.1.0",
   "homepage": "https://github.com/grimen/node-document-storage-elasticsearch",
   "repository": {
@@ -16,6 +17,7 @@
       "url": "https://github.com/grimen/node-document-storage-elasticsearch/blob/MIT-LICENSE"
     }
   ],
+  "author": "Jonas Grimfelt <grimen@gmail.com>",
   "maintainers": [
     {
       "name": "Jonas Grimfelt",
