@@ -69,3 +69,7 @@ For details; see [node-document](https://github.com/grimen/node-document).
 Released under the MIT license.
 
 Copyright (c) [Jonas Grimfelt](http://github.com/grimen)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/grimen/node-document-storage-elasticsearch/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
